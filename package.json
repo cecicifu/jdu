@@ -1,0 +1,13 @@
+{
+	"name": "jdu",
+	"version": "1.0.0",
+	"main": "jdu.js",
+	"type": "module",
+	"engines": {
+		"node": ">=14.21.1"
+	},
+	"dependencies": {
+		"ora": "^6.1.2",
+		"xml2js": "^0.4.23"
+	}
+}

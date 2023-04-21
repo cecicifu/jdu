@@ -1,0 +1,25 @@
+{
+  "server": "",
+  "serverToken": "",
+  "serverOwner": "",
+  "disableSSL": false,
+  "dependencyName": "",
+  "dependencyVersion": "",
+  "repositories": [
+    {
+      "url": "",
+      "originBranch": "",
+      "destinyBranch": "",
+      "artifactVersion": ""
+    },
+    {
+      "url": "",
+      "originBranch": "",
+      "destinyBranch": "",
+      "artifactVersion": ""
+    }
+  ],
+  "powerShellPath": "",
+  "shellMode": false,
+  "replaceShellTag": ""
+}
